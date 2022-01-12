@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Annie</h3>
 <p align="center">A second year IT student who is passionate about frontend development</p>
 
-**About Me
+##About Me
 - 🔭 I’m currently working on **React Native application**
 
 - 🌱 I’m currently learning **React Native**
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **anniehuynh253@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+##Connect with me:
 <p align="left">
 </p>
 
