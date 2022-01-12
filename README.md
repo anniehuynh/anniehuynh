@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Annie</h1>
-<h3 align="center">A second year IT student who is passionate about frontend development</h3>
+<h3 align="center">Hi 👋, I'm Annie</h3>
+<p align="center">A second year IT student who is passionate about frontend development</p>
 
+**About Me
 - 🔭 I’m currently working on **React Native application**
 
 - 🌱 I’m currently learning **React Native**
