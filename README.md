@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://anhuynh.myportfolio.com/](https://anhuynh.myportfolio.com/)
-
 - 📫 How to reach me **anniehuynh253@gmail.com**
 
 
