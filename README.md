@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📫 How to reach me **anniehuynh253@gmail.com**
+- 📫 How to reach me 
 
 
 <p align="left">
