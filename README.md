@@ -2,9 +2,9 @@
 <p align="left">A second year IT student who is passionate about frontend development</p>
 
 ## About Me
-- 🔭 I’m currently working on **React Native application**
+- 🔭 I’m currently working on **iOS Native application**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me 
 
