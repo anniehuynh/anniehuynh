@@ -1,10 +1,10 @@
 <h3 align="left">Hi 👋, I'm Annie</h3>
-<p align="left">A second year IT student who is passionate about frontend development</p>
+<p align="left">A junior Frontend Developer</p>
 
 ## About Me
-- 🔭 I’m currently working on **Android Sensor-based application**
+- 🔭 I’m currently working on **React web application and UI development**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Product Design**
 
 - 📫 How to reach me 
 
